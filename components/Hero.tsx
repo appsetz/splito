@@ -221,7 +221,7 @@ export default function Hero() {
                 </h2>
                 
                 <p className="text-gray-300 mb-6 text-sm sm:text-base leading-relaxed">
-                  We're working hard to bring you the best expense splitting experience. 
+                  We&apos;re working hard to bring you the best expense splitting experience. 
                   The Splito app will be available on the Play Store very soon!
                 </p>
                 
